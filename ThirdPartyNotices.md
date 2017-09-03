@@ -6,7 +6,7 @@ HODEA: Highly Optimized Deeply Embedded Auxiliaries incorporates third party
 material from the projects listed below. The original copyright notice and
 the license under which they are released are reproduced below.
 
-1.  [Embedded software for STM32F0 series]((http://www.st.com/content/st_com/en/products/embedded-software/mcus-embedded-software/stm32-embedded-software/stm32cube-embedded-software/stm32cubef0.html) aka STM32CubeF0
+1.  [Embedded software for STM32F0 series](http://www.st.com/content/st_com/en/products/embedded-software/mcus-embedded-software/stm32-embedded-software/stm32cube-embedded-software/stm32cubef0.html) aka STM32CubeF0
 2.  [STM32F0 System View Description](http://www.st.com/resource/en/svd/stm32f0_svd.zip).
 
 ```

@@ -8,10 +8,10 @@ It provides the following components:
 - CMSIS files
 - System View Description files (for use with debuggers)
 
-# Usage of Third Party Code
-This repository repackages parts of 
+# Use of Third Party Code
+This repository repackages parts of the
 [Embedded software for STM32F0 series](http://www.st.com/content/st_com/en/products/embedded-software/mcus-embedded-software/stm32-embedded-software/stm32cube-embedded-software/stm32cubef0.html)
-and 
-[STM32F0 System View Description] (http://www.st.com/resource/en/svd/stm32f0_svd.zip).
-Please see [ThirdPartyNotices.txt](./ThirdPartyNotices.txt) file regarding
+and the
+[STM32F0 System View Description](http://www.st.com/resource/en/svd/stm32f0_svd.zip).
+Please see [ThirdPartyNotices.md](./ThirdPartyNotices.txt) file regarding
 the licensing.

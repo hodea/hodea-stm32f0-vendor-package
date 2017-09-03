@@ -1,5 +1,5 @@
-# hodea-stm32f0-vendor-package
-Repackaged support files for STM32F0 MCUs.
+# hodea-stm32f0-vpkg
+Repackaged STM32F0 support files from the chip vendor.
 
 This repository repackages substantial support files from the chip vendor
 in order to include them in own projects as *git submodule*.
